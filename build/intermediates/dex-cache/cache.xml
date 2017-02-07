@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-im\4.1.9\376c7822cd5ff9cba4ddbce06f8e6eb59b535949\smack-im-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="376c7822cd5ff9cba4ddbce06f8e6eb59b535949">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-im-4.1.9_f238ac1bef6fd952af119bb5ce1a4638620ce82f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-core\4.1.9\4b89d9060b21d108fffe465f34ab242336630d53\smack-core-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b89d9060b21d108fffe465f34ab242336630d53">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-core-4.1.9_c6c6902a51349318a586e670e55e3c29eaa305dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-android\4.1.9\20bde3e6cccc5a7dc2cb30e8b4c788cc3ce9f9c9\smack-android-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20bde3e6cccc5a7dc2cb30e8b4c788cc3ce9f9c9">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-android-4.1.9_7bb172a29d56723d0e5bf7bc16a5074a99790d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_c5c7e1b88513e4de095a41057ab8745651695e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_48207ffe43dec2bc2336ed8ff371a7aa5aa54f42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_70e5b77f5b46e6387d04008066365cbdf545f788.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_8a8a74851e9b447ff7d0b27831b0f6de8d56970a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\de.measite.minidns\minidns\0.1.7\993582d1455b93a5723d2af4b39d8679735b3550\minidns-0.1.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="993582d1455b93a5723d2af4b39d8679735b3550">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\minidns-0.1.7_390b1088520a181ad2d5d082dd588155f8827a4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-sasl-provided\4.1.9\ba559437da8e6171a8f61e4ae0d1656424d904db\smack-sasl-provided-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba559437da8e6171a8f61e4ae0d1656424d904db">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-sasl-provided-4.1.9_0bbcf821c6e2f6346dc6866063117b04fa7640c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-resolver-minidns\4.1.9\38b17a79852bfd271f4989f4a14b5bc42d3d7667\smack-resolver-minidns-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38b17a79852bfd271f4989f4a14b5bc42d3d7667">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-resolver-minidns-4.1.9_23efb714e04eb08523908e7c0a5b4ff7a603de1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_ea7c1e1816ff49316e1f9b19b872eee50313d2c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_260640e0af2c5e614177d1a17117d733cf1dc215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-tcp\4.1.9\943bff83276a63e552cd764e3d6f6c8b899d3c7a\smack-tcp-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="943bff83276a63e552cd764e3d6f6c8b899d3c7a">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-tcp-4.1.9_fcbc1293d5fc4e9c86e53a218bd78d24bb8a8c3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_836c84a4e9dcb6d54325238d5e9f49118373378c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_1c2a14cc43efad82dae192d11b5634d7664324e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-util-cache\0.4.2\4aa590f2a44d49444dcd3bb082017bf0b46f2ff7\jxmpp-util-cache-0.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4aa590f2a44d49444dcd3bb082017bf0b46f2ff7">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\jxmpp-util-cache-0.4.2_5cd104bad566d98240a88670433c32dabd452766.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.igniterealtime.smack\smack-extensions\4.1.9\da434f6aaed8828d8a08bd52332d9f6c44192b89\smack-extensions-4.1.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da434f6aaed8828d8a08bd52332d9f6c44192b89">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\smack-extensions-4.1.9_c40cef9c5a39fba86c0095a021ae32344d745331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_4671c76974909962b9afa242cba788aa02925499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_45e94c60dca616399738d29299f45acc129f0043.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_79aed2a77fd5e6c896adb8901222cccd24bae6f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\priya\.gradle\caches\modules-2\files-2.1\org.jxmpp\jxmpp-core\0.4.2\a4c8ce09be6ec90479be74290e381de4288c9569\jxmpp-core-0.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4c8ce09be6ec90479be74290e381de4288c9569">
+        <dex dex="C:\Users\priya\AndroidStudioProjects\ServiceTutorial\app\build\intermediates\pre-dexed\debug\jxmpp-core-0.4.2_e6b152bc9570363321e77159353eb434e77cce40.jar" />
+    </item>
+
+</items>
